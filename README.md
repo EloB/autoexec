@@ -1,4 +1,4 @@
-# autoexec
+# MY CS:GO configs
 My CS:GO Config
 
 Launch options
